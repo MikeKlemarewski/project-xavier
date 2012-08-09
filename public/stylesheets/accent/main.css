@@ -240,6 +240,7 @@ body {
 	text-align: left;
 	display: -webkit-box;
 	-webkit-box-orient: horizontal;
+	min-height:1000px;
 }
 
 #Content h1 {
